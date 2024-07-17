@@ -1,3 +1,4 @@
 # gittutorial
 
-First version of the readme file (feature1 changes added)
+First version of the readme file 
+Feature1 line added
